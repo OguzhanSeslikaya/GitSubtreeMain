@@ -9,7 +9,7 @@ namespace Banner.Api.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-            return Ok(new { deneme = "asd" });
+            return Ok(new { deneme = "qwe" });
         }
     }
 }
